@@ -3,6 +3,6 @@
 using namespace std;
 
 string hello_world_string() {
-    cout << "This is in C++" << endl;
-    return "Hello, World!";
+    printf("This is in C++\n");
+    return "This is a string result from C++";
 }
